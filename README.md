@@ -1,7 +1,7 @@
 # Olá! Eu sou a Silvana Tereza 👋
 
 ### Seja bem vindo ao meu GitHub 😊   
-Aqui você vai pode ver alguns execicios e labs que fiz colocando em prática 
+Aqui você vai pode ver alguns execícios e labs que fiz colocando em prática 
 o que venho aprendendo no decorrer da minha 
 jornada na área de dev, estou sempre buscando melhorar 
 e aprimorar meus conhecimentos. 
