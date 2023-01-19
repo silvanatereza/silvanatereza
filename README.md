@@ -1,10 +1,10 @@
 # Olá! Eu sou a Silvana Tereza 👋
 
-### Seja bem vindo ao meu GitHub 😊   
-Aqui você vai pode ver alguns execícios e labs que fiz colocando em prática 
-o que venho aprendendo no decorrer da minha 
-jornada na área de dev, estou sempre buscando melhorar 
-e aprimorar meus conhecimentos. 
+### Seja bem vindo ao meu GitHub 😊
+ 
+  Aqui você  vai  ver  alguns  exercícios  e  pequenos  projetos  que fiz no  decorrer  do meu aprendizado  nessa área de dev, estou sempre buscando aprimorar e melhorar meus conhecimentos ,  e colocar em prática é a melhor forma de certificar minhas habilidades .
+
+
 
 Você também pode me encontrar no linkedin clicando no link abaixo!
 
